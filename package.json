@@ -10,7 +10,7 @@
     "test": "mocha",
     "start": "node index.js"
   },
-  "author": "Bob Reselman <reselbob@gmail.com>",
+  "author": "Gnomeguy",
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.2.0",

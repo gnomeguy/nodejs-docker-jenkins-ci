@@ -5,7 +5,7 @@ pipeline {
         stage('build') {
             steps {
                 git branch: 'main',
-                    url: 'https://github.com/reselbob/secret-agent.git'
+                    url: 'https://github.com/gnomeguy/nodejs-docker-jenkins-ci.git'
                 sh "npm install"
             }
         }
